@@ -29,14 +29,6 @@ I thrive at the intersection of **research rigor and real-world impact**—mento
 - **[Sidekick](#)** – GenAI-based drug recommender chatbot (RAG + LLMs)  
 - **[JVM ML Analysis](#)** – Machine learning pipeline for JVM benchmarks, 99% SVM accuracy  
 
----
-
-## 🏆 Awards & Recognition  
-- **AI4Good Accelerator Award** – *CrowdGuard*, 2024  
-- **Brock Horizon Graduate Scholarship** – $5,000, 2023  
-- **DGS Research Fellowship** – $2,000, 2023  
-- **IDEA Entrance Scholarship** – $5,000, 2022  
-- **1st Place Robotics Society Competition** – Raspberry Pi + OpenCV Robot, 2020  
 
 ---
 

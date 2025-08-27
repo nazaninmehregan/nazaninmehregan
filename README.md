@@ -16,13 +16,12 @@ I am passionate about using AI to solve complex challenges and create positive o
 - **Natural Language Processing (NLP)**: Text Classification, NER, Transformers
 - **Deep Learning & Neural Networks**: CNNs, RNNs, Autoencoders, Graph Neural Networks, Edge-weighted Aggregation, Incremental Learning, Contrastive Learning
 - **Computer Vision**: Object Detection (YOLOv8), ByteTrack, Density Estimation, CSRNet, OCR  
-- **Generative AI**: LLM Fine-tuning(PEFT, RLHF), OCR, RAG Pipelines, Prompt Engineering, LangChain, LangSmith, LangGraph, Neo4j, Azure AI Foundry  
+- **Generative AI**: LLM Fine-tuning (PEFT, RLHF), OCR, RAG Pipelines, Prompt Engineering, LangChain, LangSmith, LangGraph, Neo4j, Azure AI Foundry  
 - **Cloud & Systems**: Azure, AWS, Docker, Spark, Microservices  
  
 ---
-
 ## 🤝 Let’s Connect  
 I’m always open to collaborations, research discussions, or building AI solutions with real-world impact.  
 
-📧 [Email](mailto:nzmehregan@gmail.com) |  
-🔗 [LinkedIn](https://linkedin.com/in/nazaninmehregan)  
+📧 [Email](https://mail.google.com/mail/?view=cm&to=nzmehregan@gmail.com)|  
+🔗 [LinkedIn](https://www.linkedin.com/in/nazanin-mehregan/)  

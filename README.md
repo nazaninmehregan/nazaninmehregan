@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Nazanin Mehregan  
+# 👋 Hello, I’m Nazanin  
 **Data Scientist | Machine Learning Engineer | GenAI Engineer**  
 Building ethical, scalable AI solutions with NLP, GNNs, and Computer Vision.  
 

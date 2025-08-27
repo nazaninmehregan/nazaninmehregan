@@ -15,26 +15,17 @@ I thrive at the intersection of **research rigor and real-world impact**—mento
 ---
 
 ## 🔧 Areas of Expertise  
-- **Natural Language Processing (NLP)**: Transformers, RAG, Document Retrieval  
-- **Graph Neural Networks (GNNs)**: Heterogeneous Graph Models, Incremental Learning  
-- **Computer Vision**: YOLO, ByteTrack, CSRNet, OCR  
-- **Generative AI**: Prompt Engineering, LangChain, Azure AI Foundry  
+- **Natural Language Processing (NLP)**: Text Classification, NER, Transformers,  
+- **Graph Neural Networks (GNNs)**: Heterogeneous GCNs, Edge-weighted Aggregation, Incremental Learning, Contrastive Learning
+- **Deep Learning & Neural Networks**: CNNs, RNNs, Autoencoders
+- **Computer Vision**: Object Detection (YOLOv8), Tracking(ByteTrack), Density Estimation, CSRNet, OCR  
+- **Generative AI**: LLM Fine-tuning(PEFT, RLHF), OCR, RAG Pipelines, Prompt Engineering, LangChain, LangSmith, LangGraph, Neo4j, Azure AI Foundry  
 - **Cloud & Systems**: Azure, AWS, Docker, Spark, Microservices  
-
----
-
-## 📂 Highlight Projects  
-- **[TH-GCN](#)** – GNN for 5G vehicular networks, reducing handovers by 60%  
-- **[CrowdGuard](#)** – AI for real-time crowd disaster prevention (Award-winning)  
-- **[Sidekick](#)** – GenAI-based drug recommender chatbot (RAG + LLMs)  
-- **[JVM ML Analysis](#)** – Machine learning pipeline for JVM benchmarks, 99% SVM accuracy  
-
-
+ 
 ---
 
 ## 🤝 Let’s Connect  
 I’m always open to collaborations, research discussions, or building AI solutions with real-world impact.  
 
 📧 [Email](mailto:nzmehregan@gmail.com) |  
-💻 [GitHub](https://github.com/nazaninmehregan) |  
 🔗 [LinkedIn](https://linkedin.com/in/nazaninmehregan)  

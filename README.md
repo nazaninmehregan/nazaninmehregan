@@ -22,6 +22,5 @@ I am passionate about using AI to solve complex challenges and create positive o
 ---
 ## 🤝 Let’s Connect  
 I’m always open to collaborations, research discussions, or building AI solutions with real-world impact.  
-
-📧 [Email](https://mail.google.com/mail/?view=cm&to=nzmehregan@gmail.com)|  
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/nazanin-mehregan/)  
